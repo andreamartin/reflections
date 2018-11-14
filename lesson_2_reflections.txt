@@ -5,3 +5,11 @@ You tell the system you want to keep track of changes
 
 Why do you need to do it?
 Cause otherwise it doesn't know
+
+How is the staging area different from the working directory and the repository? 
+Working directory is the main folder
+The repository is the log where we keep note of the changes
+The staging area is an-inbetween where we temporarily keep track of changes before recording them into the log
+
+What value do you think it offers?
+No clue
