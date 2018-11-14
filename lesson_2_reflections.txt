@@ -13,3 +13,6 @@ The staging area is an-inbetween where we temporarily keep track of changes befo
 
 What value do you think it offers?
 No clue
+
+How can you use the staging area to make sure you have one commit per logical change?
+You should review before committing
