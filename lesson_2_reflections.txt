@@ -21,3 +21,6 @@ What are some situations when branches would be helpful in keeping your history 
 When you're working on different versions
 How would branches help?
 The main code stays the same, while a new expansion can be experimented
+
+How do the diagrams help you visualize the branch structure?
+you can see at which points changes where made, and which is the main version
