@@ -16,3 +16,8 @@ No clue
 
 How can you use the staging area to make sure you have one commit per logical change?
 You should review before committing
+
+What are some situations when branches would be helpful in keeping your history organized? 
+When you're working on different versions
+How would branches help?
+The main code stays the same, while a new expansion can be experimented
