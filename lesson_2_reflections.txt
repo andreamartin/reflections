@@ -1,0 +1,7 @@
+lesson_2_reflections.txt
+
+What happens when you initialize a repository? 
+You tell the system you want to keep track of changes
+
+Why do you need to do it?
+Cause otherwise it doesn't know

@@ -1,0 +1,10 @@
+November 8, 2018
+
+Some initial considerations on the course GitHub.
+I had started while ago, and now I thought it could be a good moment to pick it up again. Malike is working on the system and hopefully will be able to use version control in a more efficient way. 
+Fingers crossed. 
+
+The course is proceeding well. I mean, it's quite interesing. This is the first modification that I made to the file. 
+
+How might using version control make you more confident to make changes that could break something?
+These are the second sets of additions
