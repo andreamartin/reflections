@@ -24,3 +24,12 @@ The main code stays the same, while a new expansion can be experimented
 
 How do the diagrams help you visualize the branch structure?
 you can see at which points changes where made, and which is the main version
+
+What is the result of merging two branches together? 
+The codes is consolidated on a single file 
+
+Why do we represent it in the diagram the way we do?
+so that we can keep track what is the common code and at which point changes where made
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Alwasy doing changes maually would be too time consuming. On the other hands in some situations it's good to do the operation manually as Git might do something wrong whn uncertain about which step to choose
